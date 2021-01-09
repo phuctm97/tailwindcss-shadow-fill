@@ -1,6 +1,6 @@
 {
   "name": "tailwindcss-shadow-fill",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "🎨 TailwindCSS utilities to override background fill color using shadow.",
   "keywords": [
     "tailwindcss",

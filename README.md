@@ -3,7 +3,7 @@
 [![npm version][npm badge]][npm url]
 [![GitHub license][license badge]][license url]
 
-Add TailwindCSS utilities to override background fill color using `box-shadow` that is compatible with core TailwindCSS plugins, is especially useful to style autocompleted form fields with [tailwindcss-autofill] because `background-color` won't work.
+TailwindCSS utility to override background fill color using `box-shadow`, is especially useful to style autocompleted form fields with [tailwindcss-autofill] because `background-color` won't work.
 
 ## Install
 
@@ -36,7 +36,7 @@ module.exports = {
 };
 ```
 
-Style your components `shadow-fill-{color}`, e.g. `shadow-fill-gray-100`, `shadow-fill-gray-200`, `shadow-fill-red-500`, etc.
+Style your components using `shadow-fill-{color}`, e.g. `shadow-fill-gray-100`, `shadow-fill-gray-200`, `shadow-fill-red-500`, etc.
 
 ```jsx
 <input className="shadow-fill-white dark:shadow-fill-black" />

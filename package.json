@@ -1,0 +1,36 @@
+{
+  "name": "tailwindcss-shadow-fill",
+  "version": "0.0.0",
+  "description": "🎨 TailwindCSS utilities to override background fill color using shadow.",
+  "keywords": [
+    "tailwindcss",
+    "tailwindcss-plugin",
+    "tailwindcss-extension",
+    "tailwindcss-utility"
+  ],
+  "repository": "https://github.com/phuctm97/tailwindcss-shadow-fill",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "author": {
+    "name": "Minh-Phuc Tran",
+    "email": "me@phuctm97.com",
+    "url": "https://phuctm97.com"
+  },
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "style:check": "prettier --check .",
+    "style:format": "prettier --write ."
+  },
+  "dependencies": {
+    "flatten-tailwindcss-theme": "^0.1.1"
+  },
+  "peerDependencies": {
+    "tailwindcss": "^2.0.2"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}

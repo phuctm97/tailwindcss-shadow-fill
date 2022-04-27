@@ -1880,10 +1880,10 @@ flatted@^3.1.0:
   resolved "https://registry.yarnpkg.com/flatted/-/flatted-3.2.5.tgz#76c8584f4fc843db64702a6bd04ab7a8bd666da3"
   integrity sha512-WIWGi2L3DyTUvUrwRKgGi9TwxQMUEqPOPQBVi71R96jZXJdFskXEmf54BoZaS1kknGODoIGASGEzBUYdyMCBJg==
 
-flatten-tailwindcss-theme@^0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/flatten-tailwindcss-theme/-/flatten-tailwindcss-theme-0.1.1.tgz#c74a06aeb98e110b8f711ec26a973be74fc62a0b"
-  integrity sha512-H4VV6pXPVX+NZMy4Ddky+Ae3y8hRrDmYn1piauHx3nPWa/4YS6ufL2G4crxqisGawHGztSTJ5TjZkmiyTA035Q==
+flatten-tailwindcss-theme@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/flatten-tailwindcss-theme/-/flatten-tailwindcss-theme-1.0.0.tgz#e1ce77c4b4979fe432e799cc2dad469a7a664b86"
+  integrity sha512-7B795m0qzLF0yQYGkfGanO3NOisEI4EaVObnr3DBq7Qc8Ygq4yWGa0Gpx2rtb10NSgIcimUqu4Xaqh+0bkC87w==
 
 from2@^2.3.0:
   version "2.3.0"

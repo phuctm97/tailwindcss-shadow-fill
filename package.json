@@ -24,7 +24,7 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "flatten-tailwindcss-theme": "^0.1.1"
+    "flatten-tailwindcss-theme": "^1.0.0"
   },
   "peerDependencies": {
     "tailwindcss": ">=2.0.0"
